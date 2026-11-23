@@ -9,7 +9,7 @@ I'm particularly interested in the intersection of AI, product development, and 
 ## 🚀 Featured Projects
 
 ### 01. Maknara
-![Maknara Preview](assets/maknara-preview.png)
+![Maknara Preview](assets/Maknara-studio-page.png)
 **From client idea to build ready, without the guesswork.**
 
 Maknara is an AI powered client discovery and product design platform that helps teams transform early stage ideas into structured, validated, and build ready product specifications.
@@ -32,7 +32,7 @@ I lead product strategy, UX architecture, interface design, AI workflow developm
 ---
 
 ### 02. Nalaras
-![Maknara Preview](assets/maknara-preview.png)
+![Maknara Preview](assets/Nalaras-landing-page.png)
 **Know what needs your attention, before it becomes a problem.**
 
 Nalaras is an AI powered operational intelligence platform that connects existing work tools and brings important signals, updates, and activities into one focused workspace.
@@ -55,7 +55,7 @@ I worked on product strategy, UX architecture, interface design, interaction flo
 ---
 
 ### 03. Uxinas
-![Maknara Preview](assets/maknara-preview.png)
+![Maknara Preview](assets/Uxinas-landing-page.png)
 **Find the UX problems AI generated interfaces might miss.**
 
 Uxinas is an AI powered UX auditing platform designed to help product teams identify usability issues, understand their impact, and turn findings into actionable improvements.
